@@ -1,0 +1,28 @@
+body{
+}
+
+#header{
+	width: 1500px;
+	height: 100px;	
+	margin: 0px;	
+}
+
+#nav{
+	width: 200px;
+	height: 300px;
+	margin: 0px;
+	margin-top: 0px;
+	float: left;
+}
+
+#seccion{
+	width:1300px;
+	height: 300px;	
+	float: left;
+}
+
+#footer{
+	width: 1500px;
+	height: 100px;
+	float: left;
+}
